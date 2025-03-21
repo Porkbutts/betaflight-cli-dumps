@@ -1,4 +1,4 @@
-Entering CLI Mo
+# 
 
 # dump
 
@@ -372,8 +372,8 @@ mode_color 7 0 3
 aux 0 0 0 1700 2100 0 0
 aux 1 1 1 1300 1700 0 0
 aux 2 2 1 1700 2100 0 0
-aux 3 35 3 1700 2100 0 0
-aux 4 0 0 900 900 0 0
+aux 3 13 4 1700 2100 0 0
+aux 4 35 3 1700 2100 0 0
 aux 5 0 0 900 900 0 0
 aux 6 0 0 900 900 0 0
 aux 7 0 0 900 900 0 0
@@ -635,7 +635,7 @@ set ibatv_offset = 0
 set beeper_inversion = ON
 set beeper_od = OFF
 set beeper_frequency = 0
-set beeper_dshot_beacon_tone = 1
+set beeper_dshot_beacon_tone = 2
 set yaw_motors_reversed = OFF
 set mixer_type = LEGACY
 set crashflip_motor_percent = 0
