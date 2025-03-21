@@ -1,4 +1,4 @@
-Entering CLI Mode, type 'exit'
+# 
 
 # dump
 
@@ -413,7 +413,7 @@ mode_color 7 0 3
 aux 0 0 0 1700 2100 0 0
 aux 1 1 1 1300 1700 0 0
 aux 2 2 1 1700 2100 0 0
-aux 3 0 0 900 900 0 0
+aux 3 35 3 1700 2100 0 0
 aux 4 0 0 900 900 0 0
 aux 5 0 0 900 900 0 0
 aux 6 0 0 900 900 0 0
