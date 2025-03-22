@@ -1,6 +1,6 @@
 # 
 
-# dump all
+# dump
 
 # version
 # Betaflight / STM32F411 (S411) 4.2.5 Nov 22 2020 / 18:38:45 (afdac08b3) MSP API: 1.43
